@@ -5,3 +5,9 @@
 .rounded-btn {
     border-radius: 20px;
 }
+
+#tablebody{
+    margin-left: auto;
+    width:85%;
+    margin-right: auto;
+}
